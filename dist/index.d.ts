@@ -1,1 +1,1 @@
-export declare function testFunc(input: number[]): number[];
+export declare function sampleFunc(input: number[]): number[];
